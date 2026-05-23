@@ -22,7 +22,7 @@ An interactive Power BI dashboard built to analyze Real Mart sales data and gene
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](realmart_analysis.jpg)
 
 ## Key Insights
 
